@@ -1,0 +1,9 @@
+user:
+ test:
+  min: 2
+  max: 12
+ exam:
+  score: 61
+membership:
+ default:
+duration: all
