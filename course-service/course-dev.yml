@@ -1,0 +1,9 @@
+course:
+ test:
+  min: 2
+  max: 12
+ exam:
+  score: 61
+domain:
+ default:
+duration: all
