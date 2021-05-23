@@ -1,5 +1,3 @@
-server:
-  port: 9393
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/edufinity_assessment?createDatabaseIfNotExist=true
